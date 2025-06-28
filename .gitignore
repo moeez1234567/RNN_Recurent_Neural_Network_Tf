@@ -3,3 +3,5 @@ env
 .env
 /env/
 env/
+aclImdb_v1
+RNN_Satructure
